@@ -1,0 +1,15 @@
+[project]
+name = "chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "faiss-cpu>=1.14.3",
+    "google-genai>=2.8.0",
+    "ipynb>=0.5.1",
+    "numpy>=2.4.6",
+    "pymupdf>=1.27.2.3",
+    "pypdf>=6.13.2",
+    "sentence-transformers>=5.5.1",
+]

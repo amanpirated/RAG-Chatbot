@@ -1,0 +1,6 @@
+google-genai
+pypdf 
+pymupdf
+numpy
+sentence-transformers
+faiss-cpu
